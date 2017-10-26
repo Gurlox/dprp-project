@@ -1,0 +1,23 @@
+{
+  "name": "dprp-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.12.1"
+  },
+  "devDependencies": {
+    "browserify": "^13.3.0",
+    "nodemon": "^1.11.0",
+    "watchify": "^3.8.0"
+  }
+}
