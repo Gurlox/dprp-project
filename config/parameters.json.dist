@@ -1,0 +1,8 @@
+{
+  "db": {
+    "host": "mysql.wmi.amu.edu.pl",
+    "user":  "s426106",
+    "password": "kaczkakaczka",
+    "database": "dprp"
+  }
+}
