@@ -1,7 +1,7 @@
 CREATE TABLE IF NOT EXISTS users (
    id INT AUTO_INCREMENT NOT NULL,
    login VARCHAR(30) NOT NULL UNIQUE,
-   password VARCHAR(30) NOT NULL,
+   password VARCHAR(60) NOT NULL,
    name VARCHAR(100),
    surname VARCHAR(100),
    birthDate TIMESTAMP,
